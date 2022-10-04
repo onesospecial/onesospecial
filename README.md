@@ -24,5 +24,26 @@
 В данный момент рассматриваю варианты работы с соответствующими моим навыкам задачами, с целью изучать и практиковаться, лучше и больше :)
 
 - - -
-** *English version*
+## *English version*
 
+Develop the world around me and myself in the field of `Data Science`. Completed the Yandex.Practicum course in the relevant area, where I gained an experience and applied it on practical cases. I also have a higher engineering education in the construction of roads and airfields. I have the following skills and tools for working with Data:
+
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* Pandas
+* SQL
+* Visualization tools (Matplotlib, seaborn)
+* Scikit-learn
+* Docker
+* Math statistics
+* Machine learning algorithms (gradient boosting, ensemble and linear models)
+* and a some of others
+
+My soft skills include:
+
+* English (C1)
+* Team Consciousness
+* Critical thinking
+* Adaptability
+* Emotional intellect
+
+At the moment I am considering options for working with tasks that correspond to my skills, with the goal of learning and practicing, better and more :)
